@@ -93,3 +93,44 @@ h4 {
   font-size: 1.7em;
   text-align: center;
 }
+
+.service-box img {
+  width: 125px;
+}
+
+#team .section-text{
+  font-size: 1.9em;
+  text-align: center;
+}
+
+#team .member-name{
+  font-size: 1.5em;
+  font-weight: 700;
+  }
+
+  #team img {
+    width: 250px;
+    height: 180px;
+  }
+
+  .footer {
+    text-align: center;
+    font-size: 1.9em;
+  }
+
+  .address {
+    font-style: normal ;
+    font-size: 0.8em;
+  }
+
+  .footer a {
+    color: rgb(67, 163, 230);
+    text-decoration: none;
+    text-align: center;
+  }
+
+ul{
+  list-style: none;
+  padding-inline-start: 0;
+
+}
